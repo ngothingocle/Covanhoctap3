@@ -5,6 +5,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
+    base: '/Covanhoctap3/',
     base: './',
     plugins: [react(), tailwindcss()],
     resolve: {
