@@ -1,0 +1,6 @@
+{
+  "name": "Cố vấn học tập - Ngọc Lê",
+  "description": "Ứng dụng quản lý cố vấn học tập và điểm danh sinh viên với phân quyền cho Cố vấn học tập và Cán bộ lớp",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
